@@ -1,0 +1,39 @@
+!SESSION 2018-04-25 09:34:39.261 -----------------------------------------------
+eclipse.buildId=4.7.1.M20171009-0410
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -application com.ti.ccstudio.apps.projectBuild -ccs.workspace
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\ti\workspace1\sensor_cc1350lp -application com.ti.ccstudio.apps.projectBuild -ccs.workspace
+
+!ENTRY com.ti.common.core 4 0 2018-04-25 09:34:40.674
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 4 0 2018-04-25 09:34:40.681
+!MESSAGE debugServerDir=C:/ti/ccsv8/ccs_base/DebugServer
+!SESSION 2018-04-25 09:35:17.824 -----------------------------------------------
+eclipse.buildId=4.7.1.M20171009-0410
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -application com.ti.ccstudio.apps.projectBuild -ccs.workspace
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\ti\workspace1\sensor_cc1350lp -application com.ti.ccstudio.apps.projectBuild -ccs.workspace
+
+!ENTRY com.ti.common.core 4 0 2018-04-25 09:35:19.235
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 4 0 2018-04-25 09:35:19.240
+!MESSAGE debugServerDir=C:/ti/ccsv8/ccs_base/DebugServer
+!SESSION 2018-04-25 09:44:58.885 -----------------------------------------------
+eclipse.buildId=4.7.1.M20171009-0410
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -application com.ti.ccstudio.apps.projectBuild -ccs.workspace
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\ti\workspace1\sensor_cc1350lp -application com.ti.ccstudio.apps.projectBuild -ccs.workspace
+
+!ENTRY com.ti.common.core 4 0 2018-04-25 09:45:00.291
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 4 0 2018-04-25 09:45:00.299
+!MESSAGE debugServerDir=C:/ti/ccsv8/ccs_base/DebugServer
