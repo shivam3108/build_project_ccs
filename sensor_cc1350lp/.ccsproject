@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <?ccsproject version="1.0"?>
 <projectOptions>
-	<ccsVersion value="8.0.0"/>
+	<ccsVersion value="8.0.0"/>//something i have added
 	<deviceVariant value="Cortex M.CC1350F128"/>
 	<deviceFamily value="TMS470"/>
 	<deviceEndianness value="little"/>
